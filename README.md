@@ -1,4 +1,4 @@
-## Introduction Project (LIKELION)
+## Introduction Project (LIKE LION)
 ### The Outline
 * Developed an introduction web page using Bootstrap.
 
